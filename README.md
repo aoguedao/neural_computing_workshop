@@ -22,16 +22,15 @@ College of Science, George Mason University, Fairfax, USA
 
 ## Lessons
 
-| Lesson         | Notebook     |
-| :------------- | :----------: |
+| Lesson                             | Notebook             |
+| :-------------------------------- | :-------------------: |
 | Computation Thinking | |
 | Machine Learning Overview | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aoguedao/neural_computing_workshop/blob/main/lessons/02_machine_learning_overview.ipynb) |
 | Regression | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aoguedao/neural_computing_workshop/blob/main/lessons/03_ml_regression.ipynb) |
 | Classification | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aoguedao/neural_computing_workshop/blob/main/lessons/04_ml_classification.ipynb) |
 | Model Selection | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aoguedao/neural_computing_workshop/blob/main/lessons/05_ml_model_selection.ipynb) |
 | Neural Networks | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aoguedao/neural_computing_workshop/blob/main/lessons/06_neural_networks.ipynb) |
-| Physics-Informed Neural Networks | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aoguedao/neural_computing_workshop/blob/main/lessons/07_pinn
-.ipynb) |
+| Physics-Informed Neural Networks | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aoguedao/neural_computing_workshop/blob/main/lessons/07_pinn.ipynb) |
 
 
 
