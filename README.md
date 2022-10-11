@@ -6,7 +6,7 @@ In this short course, we will introduce foundations of computational problem sol
 
 
 ## Workshop Coordinators:
-Prof. Padhu Seshaiyer* and Mr. Alonso Gabriel Ogueda**
+Prof. Padhu Seshaiyer* and Mr. Alonso G. Ogueda Oliva**
 Department of Mathematical Sciences
 College of Science, George Mason University, Fairfax, USA
 
@@ -40,4 +40,4 @@ College of Science, George Mason University, Fairfax, USA
 
  
 
-**Mr. Alonso Gabriel Ogueda is currently a graduate student pursuing his doctoral studies with Dr. Padhu Seshaiyer on applications of Physics Informed Neural Networks. He holds a Master’s degree in Mathematics from the Universidad Técnica Federico Santa María (2021) and a Mathematical Engineering degree from Universidad Técnica Federico Santa María (2019). He has worked on a variety of projects involving development of mathematical/statistical algorithms, data analysis, data science and engineering and Cloud computing. More details can be found at https://aoguedao.github.io/cv/
+**Mr. Alonso G. Ogueda  Oliva is currently a graduate student pursuing his doctoral studies with Dr. Padhu Seshaiyer on applications of Physics Informed Neural Networks. He holds a Master’s degree in Mathematics from the Universidad Técnica Federico Santa María (2021) and a Mathematical Engineering degree from Universidad Técnica Federico Santa María (2019). He has worked on a variety of projects involving development of mathematical/statistical algorithms, data analysis, data science and engineering and cloud computing. More details can be found at https://aoguedao.github.io/cv/
