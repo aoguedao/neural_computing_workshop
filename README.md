@@ -30,11 +30,12 @@ College of Science, George Mason University, Fairfax, USA
 | Regression | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aoguedao/neural_computing_workshop/blob/main/lessons/ml_regresssion.ipynb) |
 | Classification | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aoguedao/neural_computing_workshop/blob/main/lessons/ml_classification.ipynb) |
 | Clustering | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aoguedao/neural_computing_workshop/blob/main/lessons/ml_clustering.ipynb) |
-<!-- | Model Selection | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aoguedao/neural_computing_workshop/blob/main/lessons/ml_clustering.ipynb) |
-| Neural Networks | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aoguedao/neural_computing_workshop/blob/main/lessons/neural_networks.ipynb) |
-| Physics-Informed Neural Networks (Forward) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aoguedao/neural_computing_workshop/blob/main/lessons/pinn_forward.ipynb) |
-| Physics-Informed Neural Networks (Inverse) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aoguedao/neural_computing_workshop/blob/main/lessons/pinn_inverse.ipynb) |
-| Diseases-Informed Neural Networks | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aoguedao/neural_computing_workshop/blob/main/lessons/dinn.ipynb) | -->
+| Model Selection | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aoguedao/neural_computing_workshop/blob/main/lessons/ml_clustering.ipynb) |
+| Neural Networks - Part 1| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aoguedao/neural_computing_workshop/blob/main/lessons/neural_networks_part1.ipynb) |
+| Neural Networks - Part 2| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aoguedao/neural_computing_workshop/blob/main/lessons/neural_networks_part2.ipynb) |
+| Physics-Informed Neural Networks (Forward) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aoguedao/neural_computing_workshop/blob/main/lessons/pinn.ipynb) |
+| Diseases-Informed Neural Networks | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aoguedao/neural_computing_workshop/blob/main/lessons/dinn.ipynb) |
+
 
 ## Short Biography
 
