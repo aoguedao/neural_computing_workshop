@@ -33,7 +33,7 @@ College of Science, George Mason University, Fairfax, USA
 | Model Selection | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aoguedao/neural_computing_workshop/blob/main/lessons/ml_clustering.ipynb) |
 | Neural Networks - Part 1| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aoguedao/neural_computing_workshop/blob/main/lessons/neural_networks_part1.ipynb) |
 | Neural Networks - Part 2| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aoguedao/neural_computing_workshop/blob/main/lessons/neural_networks_part2.ipynb) |
-| Physics-Informed Neural Networks (Forward) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aoguedao/neural_computing_workshop/blob/main/lessons/pinn.ipynb) |
+| Physics-Informed Neural Networks | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aoguedao/neural_computing_workshop/blob/main/lessons/pinn.ipynb) |
 | Diseases-Informed Neural Networks | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aoguedao/neural_computing_workshop/blob/main/lessons/dinn.ipynb) |
 
 
